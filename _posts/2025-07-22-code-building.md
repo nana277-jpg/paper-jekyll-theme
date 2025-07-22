@@ -30,7 +30,7 @@ name = "ThanhThuy"
 age = 19
 is_student = True
 
-print(f"My name is {THUY}, I am {19} years old.")
+print("My name is {THUY}, I am {19} years old.")
 ~~~
 
 In this example:
