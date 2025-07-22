@@ -26,11 +26,11 @@ This is the most basic Python command. It prints a string to the console.
 ### 02. Variables and Data Types in Python
 
 ~~~python
-name = "Junhee"
-age = 21
+name = "ThanhThuy"
+age = 19
 is_student = True
 
-print(f"My name is {name}, I am {age} years old.")
+print(f"My name is {THUY}, I am {19} years old.")
 ~~~
 
 In this example:
