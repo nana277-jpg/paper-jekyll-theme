@@ -21,7 +21,7 @@ Let's work !
 
 This is how to upload the image from the internet!
 
-![test_kitten](https://junhee-lee233.github.io/paper-jekyll-theme/assets/images/test_kitten.jpeg)
+![test_kitten](https://github.com/nana277-jpg/paper-jekyll-theme/blob/master/assets/images/catt.jpg?raw=true)
 
 This is how to upload from your assets (your local image)
 
